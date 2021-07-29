@@ -5,10 +5,10 @@ People I have worked with tend to say that I am a helpful person and that I alwa
 Facing challenges is always good, a person who feels challenged tends to overcome obstacles in a simpler and more natural way. The obstacles I had yesterday will never be today's, and today's will never be tomorrow's
 "Success comes as a result of developing our potential" - John Maxwell
 
-Skills: REACT JS / REACT NATIVE / NODEJS / IONIC / JAVASCRIP / HTML / CSS / TYPESCRIPT
+Skills: REACT JS / REACT NATIVE / NODEJS / IONIC / JAVASCRIP / HTML / CSS / TYPESCRIPT / JAVA / C / C++ / SQL 
 
 - 🔭 I’m currently working on a intern project on Trinity Soluções 
-- 🌱 I’m currently learning kotlin / flutter 
+- 🌱 I’m currently learning kotlin / flutter / angular
 - 😄 Pronouns: he / his 
 
 
