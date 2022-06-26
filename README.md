@@ -28,5 +28,5 @@ Skills: REACT JS / REACT NATIVE / NODEJS / IONIC / JAVASCRIP / HTML / CSS / TYPE
 
 ![Profile views](https://gpvc.arturio.dev/vicmouz)  
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/vicmouz/blob/output/github-contribution-grid-snake.svg)
 
