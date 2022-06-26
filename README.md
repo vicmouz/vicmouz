@@ -1,5 +1,5 @@
-### Hello, I'm Victor Mouzinho 👋
-### Full stack dev with focus on web and mobile development
+# Hello, I'm Victor Mouzinho 👋
+## Full stack dev with focus on web and mobile development
 Since my beginning in the professional field as a Computer Network Technician I have been looking for something, my improvement, be it on a technical level (my skills) or on a personal level (relationship with people in the work environment).
 People I have worked with tend to say that I am a helpful person and that I always try to help others to the maximum, so I am always looking for new things to learn, thus avoiding being stuck in the same tool or stuck to the same concepts.
 Facing challenges is always good, a person who feels challenged tends to overcome obstacles in a simpler and more natural way. The obstacles I had yesterday will never be today's, and today's will never be tomorrow's
@@ -27,3 +27,6 @@ Skills: REACT JS / REACT NATIVE / NODEJS / IONIC / JAVASCRIP / HTML / CSS / TYPE
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vicmouz)  
 
 ![Profile views](https://gpvc.arturio.dev/vicmouz)  
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
