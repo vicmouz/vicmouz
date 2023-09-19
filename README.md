@@ -1,4 +1,5 @@
 # Hello, I'm Victor Mouzinho 👋
+<a href='https://vicmouz.github.io/portfolio/'>Portfolio</A>
 ## Full stack dev with focus on web and mobile development
 Since my beginning in the professional field as a Computer Network Technician I have been looking for something, my improvement, be it on a technical level (my skills) or on a personal level (relationship with people in the work environment).
 People I have worked with tend to say that I am a helpful person and that I always try to help others to the maximum, so I am always looking for new things to learn, thus avoiding being stuck in the same tool or stuck to the same concepts.
